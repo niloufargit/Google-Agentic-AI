@@ -25,6 +25,16 @@ for security reasons i didnt add my GOOGLE_API_KEY here . you should create a .e
     pip install cowsay
     ```
 
+- to generate the requirements file :
+    ```
+    pip freeze > requirements.txt
+    ```
+
+- install dependencies from our requirements file :
+    ```
+    pip install -r requirements.txt
+    ```
+
 - to deactivate it :
     ```
     deactivate
