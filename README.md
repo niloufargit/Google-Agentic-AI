@@ -1,6 +1,6 @@
 # AGENTIC AI GOOGLE * KAGGLE course 
 
-i participated in google agentic ai this month with oonline courses and assigments using google apk and kaggle 
+i participated in google agentic ai courses this month . in this github projetc im solving assigments with google apk and kaggle 
 ---
 
 ## to be able to run the prompt-to-action.ipynb
