@@ -3,12 +3,12 @@
 i participated in google agentic ai courses this month . in this github projetc im solving assigments with google apk and kaggle 
 ---
 
-## to be able to run the prompt-to-action.ipynb
+### to be able to run the prompt-to-action.ipynb :
 
 for security reasons i didnt add my GOOGLE_API_KEY here . you should create a .env file then add your api key in it . if you don't have one you can create here : https://aistudio.google.com/app/api-keys
 
 ---
-## to create a virtual env 
+### to create a virtual environment  :
 
 - to create a virtual env :
     ```
