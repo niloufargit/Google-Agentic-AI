@@ -1,4 +1,4 @@
-# AGENTI AI GOOGLE * KAGGLE course 
+# AGENTIC AI GOOGLE * KAGGLE course 
 
 i participated in google agentic ai this month with oonline courses and assigments using google apk and kaggle 
 
